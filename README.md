@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Singh</h1>
 <h3 align="center">A passionate blockchain developer from India</h3>
 <image align="centre" alt="Coding" width="400" src"https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aman0801&label=Profile%20views&color=0e75b6&style=flat" alt="aman0801" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman0801&label=Profile%20views&color=0e75b6&style=flat" alt="aman0801" /> </p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -12,4 +12,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aman0801&show_icons=true&locale=en" alt="aman0801" /></p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aman0801&" alt="aman0801" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aman0801&" alt="aman0801" /></p>
