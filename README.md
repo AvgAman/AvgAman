@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Singh</h1>
 <h3 align="center">A passionate blockchain developer from India</h3>
-<h1 align="center">Hi <img src="https://media.tenor.com/4j1-lsYfaO8AAAAC/crypto-cryptocurrency.gif" width="25px" height="35px" >  I'm Shashank Anand</h1>
+<h1 align="center">Hi <img src="https://media.tenor.com/4j1-lsYfaO8AAAAC/crypto-cryptocurrency.gif" width="25px" height="35px" >  I'm Aman Singh</h1>
+<p align="right"><img src= "https://github.com/shashankanand13monu/shashankanand13monu/blob/main/code.gif"align="right" width=50%>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman0801&label=Profile%20views&color=0e75b6&style=flat" alt="aman0801" /> </p> 
 
 <h3 align="left">Connect with me:</h3>
