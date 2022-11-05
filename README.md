@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Aman Singh</h1>
 <h3 align="center">A passionate blockchain developer from India</h3>
 <h1 align="center">Hi <img src="https://media.tenor.com/4j1-lsYfaO8AAAAC/crypto-cryptocurrency.gif" width="25px" height="35px" >  I'm Aman Singh</h1>
 <p align="right"><img src= "https://github.com/shashankanand13monu/shashankanand13monu/blob/main/code.gif"align="right" width=50%>
