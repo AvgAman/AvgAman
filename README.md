@@ -52,3 +52,7 @@
 > I write Java code so clean, even my future self thanks me. 😄
 
 ---
+
+### 🐍 Contribution Snake
+
+![snake gif](https://github.com/AvgAman/AvgAman/blob/output/github-contribution-grid-snake.svg)
