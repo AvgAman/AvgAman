@@ -35,11 +35,8 @@
   <a href="https://twitter.com/amansingh_2001" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/aman0801/" target="_blank">
+  <a href="https://leetcode.com/AvgAman/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.hackerrank.com/h2029046" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
 </p>
 
@@ -49,7 +46,7 @@
 
 - 🏗️ Building scalable web applications with **Java + Spring Boot + React**
 - 📖 Constantly learning better software architecture and backend optimization
-- 🎮 Also working on side projects at [gameinindia.com](https://gameinindia.com)
+- 🎮 Also worked on side projects at [gameinindia.com](https://gameinindia.com)
 
 ---
 
